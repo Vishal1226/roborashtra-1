@@ -1,0 +1,31 @@
+.title {
+  font-family: var(--ft-3);
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 48px;
+  letter-spacing: 0.015em;
+  text-align: left;
+  border-bottom: 5px solid white;
+  width: 80%;
+  padding-bottom: 0.8rem;
+  margin-bottom: 1rem;
+}
+.clan_text {
+  font-family: Inknut Antiqua;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.social_media {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+}
+.social_media img {
+  margin: 0.5rem;
+}
+.clan {
+  padding: 0.5rem;
+}
