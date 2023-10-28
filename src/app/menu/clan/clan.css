@@ -10,6 +10,7 @@
   padding-bottom: 0.8rem;
   margin-bottom: 1rem;
 }
+
 .clan_text {
   font-family: Inknut Antiqua;
   font-size: 20px;
@@ -18,14 +19,29 @@
   letter-spacing: 0em;
   text-align: left;
 }
+
 .social_media {
   margin-top: 2rem;
   display: flex;
   justify-content: center;
 }
+
 .social_media img {
   margin: 0.5rem;
 }
+
 .clan {
   padding: 0.5rem;
+}
+
+@media only screen and (max-width:700px) {
+  .clan {
+    position: absolute;
+    top: 5rem;
+  }
+
+  .clan_text {
+    font-size: auto;
+  }
+
 }

@@ -11,7 +11,9 @@ export default function Home() {
       </div>
       <main className="">
         <div>
+          <center>
           <Image src={MainCharater} />
+          </center>
         </div>
         <div className="main_title">
           <span>Robo</span>

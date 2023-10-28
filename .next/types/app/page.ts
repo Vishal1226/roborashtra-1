@@ -1,4 +1,4 @@
-// File: E:\Robo\client\src\app\page.jsx
+// File: C:\Users\VISHAL\OneDrive\Desktop\roborashtra-1\src\app\page.jsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
