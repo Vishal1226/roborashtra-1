@@ -7,7 +7,7 @@ const events = [
   {
     title: "Steel Solider Slam",
     desc: "check the top-level render call using",
-    link: "/events/steel_solider_slam",
+    link: "/events/robowar",
     image: "event1.svg",
   },
   {
