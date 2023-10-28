@@ -47,23 +47,6 @@
       "static/css/d4bfcfee9db462c2.css",
       "static/chunks/app/events/cam_warrior/page-1f4c27934db04e77.js"
     ],
-    "/events/robowar/page": [
-      "static/chunks/webpack-6d333015b22d5849.js",
-      "static/chunks/fd9d1056-0e221b447477ba64.js",
-      "static/chunks/472-a90b3ac8a5fd9311.js",
-      "static/chunks/main-app-0c6cb63a24192b2a.js",
-      "static/chunks/413-6a698c8fab603b15.js",
-      "static/chunks/326-d4cc699f4d337d72.js",
-      "static/css/d4bfcfee9db462c2.css",
-      "static/chunks/app/events/robowar/page-c559aa49e7d09d97.js"
-    ],
-    "/events/page": [
-      "static/chunks/webpack-6d333015b22d5849.js",
-      "static/chunks/fd9d1056-0e221b447477ba64.js",
-      "static/chunks/472-a90b3ac8a5fd9311.js",
-      "static/chunks/main-app-0c6cb63a24192b2a.js",
-      "static/chunks/app/events/page-51f6c7a95c08de52.js"
-    ],
     "/events/resqlimpic/page": [
       "static/chunks/webpack-6d333015b22d5849.js",
       "static/chunks/fd9d1056-0e221b447477ba64.js",
@@ -74,6 +57,13 @@
       "static/css/d4bfcfee9db462c2.css",
       "static/chunks/app/events/resqlimpic/page-56b8381160459982.js"
     ],
+    "/events/page": [
+      "static/chunks/webpack-6d333015b22d5849.js",
+      "static/chunks/fd9d1056-0e221b447477ba64.js",
+      "static/chunks/472-a90b3ac8a5fd9311.js",
+      "static/chunks/main-app-0c6cb63a24192b2a.js",
+      "static/chunks/app/events/page-51f6c7a95c08de52.js"
+    ],
     "/events/tactical_tracers/page": [
       "static/chunks/webpack-6d333015b22d5849.js",
       "static/chunks/fd9d1056-0e221b447477ba64.js",
@@ -83,6 +73,16 @@
       "static/chunks/326-d4cc699f4d337d72.js",
       "static/css/d4bfcfee9db462c2.css",
       "static/chunks/app/events/tactical_tracers/page-33321d4b9b6178a6.js"
+    ],
+    "/events/robowar/page": [
+      "static/chunks/webpack-6d333015b22d5849.js",
+      "static/chunks/fd9d1056-0e221b447477ba64.js",
+      "static/chunks/472-a90b3ac8a5fd9311.js",
+      "static/chunks/main-app-0c6cb63a24192b2a.js",
+      "static/chunks/413-6a698c8fab603b15.js",
+      "static/chunks/326-d4cc699f4d337d72.js",
+      "static/css/d4bfcfee9db462c2.css",
+      "static/chunks/app/events/robowar/page-c559aa49e7d09d97.js"
     ],
     "/menu/clan/page": [
       "static/chunks/webpack-6d333015b22d5849.js",
@@ -104,6 +104,13 @@
       "static/css/f111e04605a3a7c7.css",
       "static/chunks/app/menu/layout-a37610a39d1530ed.js"
     ],
+    "/menu/profile/page": [
+      "static/chunks/webpack-6d333015b22d5849.js",
+      "static/chunks/fd9d1056-0e221b447477ba64.js",
+      "static/chunks/472-a90b3ac8a5fd9311.js",
+      "static/chunks/main-app-0c6cb63a24192b2a.js",
+      "static/chunks/app/menu/profile/page-d0f646ff80ca77d6.js"
+    ],
     "/menu/page": [
       "static/chunks/webpack-6d333015b22d5849.js",
       "static/chunks/fd9d1056-0e221b447477ba64.js",
@@ -112,13 +119,6 @@
       "static/chunks/413-6a698c8fab603b15.js",
       "static/css/5c6379665d570412.css",
       "static/chunks/app/menu/page-fd7cd3f73937c947.js"
-    ],
-    "/menu/profile/page": [
-      "static/chunks/webpack-6d333015b22d5849.js",
-      "static/chunks/fd9d1056-0e221b447477ba64.js",
-      "static/chunks/472-a90b3ac8a5fd9311.js",
-      "static/chunks/main-app-0c6cb63a24192b2a.js",
-      "static/chunks/app/menu/profile/page-d0f646ff80ca77d6.js"
     ],
     "/menu/sponsors/page": [
       "static/chunks/webpack-6d333015b22d5849.js",
