@@ -3,9 +3,10 @@ import React, { useState } from "react";
 import Image from "next/image";
 import logo from "@/images/logo.png";
 import "./Nav.css";
+import Bt from "../Buttons/Btn1";
 import Link from "next/link";
-// import Btn2 from "../Buttons/Btn2";
 import { GiHamburgerMenu } from "react-icons/gi";
+import Btn1 from "../Buttons/Btn1";
 
 const options = [
   {
