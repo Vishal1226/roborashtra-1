@@ -77,7 +77,7 @@ nav {
     gap: 2rem;
     padding-top: 5rem;
     background-color: rgba(44, 42, 42, 0.923);
-    transition: all ease-in-out 0.4s;
+    transition: all ease-in-out 0.3s;
 
   }
 
@@ -107,7 +107,7 @@ nav {
 
   .desktop-links a:hover {
     border-bottom: 3px solid #00e0ff;
-    padding-right: 30vw;
+    padding-right: 25vw;
     color: #00e0ff;
 
   }
