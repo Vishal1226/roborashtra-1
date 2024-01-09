@@ -7,9 +7,9 @@ const CamWarrior = () => {
   return (
     <div className="Event">
       <div>
-        <h1 className="EventTitle">RoboWar</h1>
+        <h1 className="EventTitle">Steel Soldier Slam</h1>
         <p>
-          RoboWar, the ultimate arena for mechanical warriors, is a cutting-edge
+          Steel Soldier Slam, the ultimate arena for mechanical warriors, is a cutting-edge
           competition that brings together the brightest minds in robotics and
           engineering. This adrenaline-pumping event showcases the most recent
           advancements in robotic combat and promises an electrifying experience

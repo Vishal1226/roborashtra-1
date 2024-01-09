@@ -1,5 +1,7 @@
 "use client";
 import React from "react";
+import Image from 'next/image';
+import bottomArrow from '../../images/arrow.png';
 
 import Card from "../../components/Card/Card";
 import "./events.css";
@@ -31,6 +33,8 @@ const events = [
 ];
 const Cards = () => {
   return (
+    <div className="Container">
+      <h1 className="headTitle">Dvanadvayuddh</h1>
     <div className="Events">
       {events.map((event) => {
         return (
@@ -44,6 +48,8 @@ const Cards = () => {
         );
       })}
     </div>
+      <button className="bottomButton"><a href="/pg_menu"><Image src={bottomArrow} alt="arrow" srcset="" /></a></button>
+      </div>
   );
 };
 

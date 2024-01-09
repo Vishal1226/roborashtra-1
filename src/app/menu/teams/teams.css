@@ -4,10 +4,10 @@
   font-weight: 600;
   line-height: 48px;
   letter-spacing: 0.015em;
-  text-align: left;
+  text-align: center;
   margin-bottom: 2rem;
-  display: none;
 }
+
 .team h2 {
   font-family: Roboto;
   font-size: 32px;
@@ -17,10 +17,18 @@
   text-align: left;
   margin: 2rem 0;
 }
+
 .team_wrapper {
   height: 65vh;
   overflow-y: scroll;
 }
+
+.co-ordinator {
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-content: left;
+}
+
 .team_row {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
